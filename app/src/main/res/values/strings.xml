@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Film Flicks</string>
+    <string name="rating_icon">Rating Icon</string>
+    <string name="rating">%.1f/10</string>
+    <string name="overview">Overview</string>
+    <string name="language">Language</string>
+    <string name="language_icon">Language Icon</string>
+    <string name="release_date">Release Date</string>
+    <string name="production">Production</string>
+    <string name="category">Category</string>
+    <string name="search">Search</string>
+
+</resources>
