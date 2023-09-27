@@ -1,5 +1,5 @@
 # Film_Flicks
-<h1>Description</h1>
+<h2>Description</h2>
 <p>Film Flicks is a simple and user-friendly app that brings the world of cinema to your mobile device. Discover a wide range of movies categorized as 'Now Playing,' 'Top Rated,' 'Popular,' and 'Upcoming.' With the ability to search movies by title, you can easily find your favorites. Explore movie details, including breathtaking backdrops, stunning posters, titles, languages, production companies, and more, all at your fingertips. Dive into the world of film with Film Flick and experience the magic of movies like never before.</p>
 <h3>Tech Used:</h3>
 <p>Android Studio, Kotlin, Jetpack Compose, Navigation Compose, MVVM and Clean Architecture, Dagger Hilt, Pagination, Retrofit, Flow, Coil, Timber etc.</p>
