@@ -29,11 +29,6 @@
 
 <h3>Video:</h3>
 
-<p align="center">
-
-<a href="https://www.youtube.com/shorts/FUBSLt5QaJs?feature=share" target="_blank">
- <img src="https://github.com/ShobhitSaxena63/Film_Flicks/assets/100696254/7d66d523-1417-4139-823f-a04569f289f8" alt="Watch the video" width="200"/>
-</a>
-</p>
+[Watch the video](https://www.youtube.com/shorts/FUBSLt5QaJs)
 
 
